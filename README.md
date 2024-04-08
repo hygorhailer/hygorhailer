@@ -23,10 +23,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)<br>
 ![Oracle DB](https://img.shields.io/badge/-Oracle_DB-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![WebLogic](https://img.shields.io/badge/-WebLogic-000000?style=flat-square&logo=Oracle&logoColor=white)
-![jMeter](https://img.shields.io/badge/-jMeter-E40045?style=flat-square&logo=Apache&logoColor=white)
+![JMeter](https://img.shields.io/badge/-jMeter-E40045?style=flat-square&logo=Apache&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=Godot-Engine&logoColor=white)
 
